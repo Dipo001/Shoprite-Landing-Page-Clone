@@ -1,0 +1,59 @@
+
+
+.login{
+    background: url(icm) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 65vh;
+    padding-top: 120px;
+    padding-left: 70px;
+}
+.news{
+    text-align: center;
+    font-style: oblique;
+}
+section .row .col-md-5 ul{
+    border-style: none;
+    border-radius: 0%;
+}
+.list li{
+    list-style-type: none;
+    float: center;
+    display: inline;
+
+}
+.list li a{
+    color: darkred;
+    text-decoration: none;
+}
+.list li a:hover{
+    cursor: pointer;
+    transition: .5s;
+    text-decoration: underline;
+}
+.card{
+    border-style: none;
+}
+
+.row .card:hover>img{
+    width: 500px;
+    transition: .7s;
+}
+.list1 li{
+    list-style-type: none;
+    float: center;
+   padding: 10px 10px;
+
+}
+.list1 li a{
+    color: aqua;
+    text-decoration: none;
+}
+.list1 li a:hover{
+    cursor: pointer;
+    transition: .5s;
+    text-decoration: underline;
+}
+
